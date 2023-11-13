@@ -26,7 +26,7 @@ header {
 }
 
 .logo span {
-    color: #7d2ae8;
+    color: #ff7b00;
 }
 
 .navigation {
@@ -39,10 +39,11 @@ header {
     text-decoration: none;
     margin-right: 40px;
     font-weight: 500;
+    transition: .3s;
 }
 
 .navigation a:hover {
-    color: #7d2ae8;
+    color: #ff7b00;
 }
 
 .home {
@@ -67,7 +68,7 @@ header {
 }
 
 .content h2 span {
-    color: #7d2ae8;
+    color: #ff7b00;
 }
 
 .content h4 {
@@ -83,7 +84,7 @@ header {
 
 .home h2 {
     font-size: 45px;
-    color: #7d2ae8;
+    color: #ff7b00;
 }
 
 .pp h4 {
@@ -113,7 +114,7 @@ img {
 
 .home h2 {
     font-size: 45px;
-    color: #7d2ae8;
+    color: #ff7b00;
 }
 
 .ci h4 {
@@ -133,6 +134,10 @@ img {
     list-style-type: square;
     font-size: 20px; 
     padding : 50px;
+}
+
+.cein a:hover {
+    color: #ff7b00;
 }
 
 .cein a:hover {
