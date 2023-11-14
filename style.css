@@ -100,7 +100,7 @@ header {
 }
 
 img {
-    display: block;
+    display: flex;
     width : 250px;
     margin: 250px;
 }
