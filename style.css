@@ -101,8 +101,13 @@ header {
 
 img {
     display: block;
-    width : 300px;
-    margin: 300px;
+    width : 250px;
+    margin: 250px;
+}
+
+img :hover{
+    size:120%;
+    transition:0.5s;
 }
 
 .ci {
