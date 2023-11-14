@@ -106,8 +106,8 @@ img {
 }
 
 img:hover{
-    size:120%;
-    transition:0.5s;
+    width : 350px;
+    margin: 350px;
 }
 
 .ci {
