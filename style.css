@@ -103,7 +103,8 @@ header {
 img {
     display: flex;
     width : 250px;
-    margin: 400px;
+    justify-content: center;
+    align-items: center;
     transition: transform .1s;
 }
 
