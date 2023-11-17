@@ -103,11 +103,11 @@ header {
 img {
     display: flex;
     width : 250px;
-    margin: 300px;
+    margin: 350px;
 }
 
 img:hover{
-    width : 300px;
+    width : 275px;
 }
 
 .ci {
