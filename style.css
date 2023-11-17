@@ -107,7 +107,7 @@ img {
 }
 
 img:hover{
-    width : 275px;
+    transform:scale(1.25);
 }
 
 .ci {
