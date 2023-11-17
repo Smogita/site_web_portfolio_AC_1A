@@ -44,6 +44,7 @@ header {
 
 .navigation a:hover {
     color: #ff7b00;
+    font-size: 1.2em;
 }
 
 .home {
