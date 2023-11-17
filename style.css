@@ -104,6 +104,7 @@ img {
     display: flex;
     width : 250px;
     margin: 400px;
+    transition: transform .1s;
 }
 
 img:hover{
