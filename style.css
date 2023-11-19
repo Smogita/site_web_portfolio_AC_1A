@@ -102,11 +102,11 @@ header {
 
 .linkedin{
     position: absolute;
-    left: 47%;
+    left: 70%;
 }
 
 .linkedin img {
-    width : 100px;
+    width : 200px;
     transition: transform .1s;
 }
 
@@ -115,7 +115,7 @@ header {
 }
 
 .linkedin a{
-    width: 100px;
+    width: 200px;
     display: block;
 }
 
