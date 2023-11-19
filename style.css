@@ -100,7 +100,7 @@ header {
     font-size: 20px;
 }
 
-img {
+.cv img {
     display: flex;
     width : auto;
     height : 200px;
@@ -109,7 +109,7 @@ img {
     transition: transform .1s;
 }
 
-img:hover{
+.cv img:hover{
     transform:scale(1.25);
 }
 
