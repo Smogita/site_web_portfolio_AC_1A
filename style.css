@@ -102,8 +102,7 @@ header {
 
 img {
     display: flex;
-    width : 250px;
-    position: absolute;
+    object-fit: contain;
     transition: transform .1s;
 }
 
