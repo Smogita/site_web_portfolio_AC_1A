@@ -100,7 +100,7 @@ header {
     font-size: 20px;
 }
 
-.cv img {
+.linkedin img {
     display: flex;
     width : auto;
     height : 200px;
@@ -109,7 +109,7 @@ header {
     transition: transform .1s;
 }
 
-.cv img:hover{
+.linkedin img:hover{
     transform:scale(1.25);
 }
 
