@@ -104,6 +104,8 @@ img {
     display: flex;
     width : auto;
     height : 150px;
+    position: relative;
+    top: 40px; left: 40px;
     transition: transform .1s;
 }
 
