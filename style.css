@@ -103,7 +103,7 @@ header {
 img {
     display: flex;
     width : 250px;
-    margin : 300px;
+    position: absolute;
     transition: transform .1s;
 }
 
