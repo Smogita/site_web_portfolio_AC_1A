@@ -119,18 +119,18 @@ header {
     font-size: 20px;
 }
 
-.ci {
+#ci {
     max-width: 500px;
     color: #ffffff;
     margin-left: auto;
     margin-right: auto;
 }
 
-.ci h4 {
+#ci h4 {
     font-size: 30px;
 }
 
-.cein a {
+#cein a {
     font-size: 1.1em;
     color: #ffffff;
     text-decoration: none;
@@ -138,14 +138,14 @@ header {
     transition: .3s;
 }
 
-.cein{
+#cein{
     list-style-position: outside;
     list-style-type: square;
     font-size: 20px; 
     padding : 50px;
 }
 
-.cein a:hover {
+#cein a:hover {
     color: #ff7b00;
     font-size: 1.2em;
 }
