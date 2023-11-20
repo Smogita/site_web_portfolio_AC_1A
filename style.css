@@ -59,6 +59,11 @@ header {
     padding: 30px 100px;
 }
 
+.home h2 {
+    font-size: 45px;
+    color: #ff7b00;
+}
+
 #index {
     max-width: 500px;
     color: #ffffff;
@@ -83,11 +88,6 @@ header {
     margin-right: auto;
 }
 
-.home h2 {
-    font-size: 45px;
-    color: #ff7b00;
-}
-
 .pp h4 {
     font-size: 30px;
 }
@@ -100,21 +100,21 @@ header {
     font-size: 20px;
 }
 
-.linkedin{
+#linkedin{
     position: absolute;
     left: 50%;
 }
 
-.linkedin img {
+#linkedin img {
     width : 200px;
     transition: transform .1s;
 }
 
-.linkedin img:hover{
+#linkedin img:hover{
     transform:scale(1.25);
 }
 
-.linkedin a{
+#linkedin a{
     width: 200px;
     display: block;
 }
@@ -124,11 +124,6 @@ header {
     color: #ffffff;
     margin-left: auto;
     margin-right: auto;
-}
-
-.home h2 {
-    font-size: 45px;
-    color: #ff7b00;
 }
 
 .ci h4 {
