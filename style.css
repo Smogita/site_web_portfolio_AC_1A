@@ -81,25 +81,6 @@ header {
     font-size: 2em;
 }
 
-.pp {
-    max-width: 500px;
-    color: #ffffff;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.pp h4 {
-    font-size: 30px;
-}
-
-.propro{
-    list-style-position: outside;
-    list-style-type: square;
-    font-size: 20px; 
-    margin-left : 60px;
-    font-size: 20px;
-}
-
 #linkedin{
     position: absolute;
     left: 50%;
@@ -117,6 +98,25 @@ header {
 #linkedin a{
     width: 200px;
     display: block;
+}
+
+#pp {
+    max-width: 500px;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pp h4 {
+    font-size: 30px;
+}
+
+#propro{
+    list-style-position: outside;
+    list-style-type: square;
+    font-size: 20px; 
+    margin-left : 60px;
+    font-size: 20px;
 }
 
 .ci {
