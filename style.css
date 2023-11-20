@@ -59,20 +59,20 @@ header {
     padding: 30px 100px;
 }
 
-.content {
+#index {
     max-width: 500px;
     color: #ffffff;
 }
 
-.content h2 {
+#index h2 {
     font-size: 3em;
 }
 
-.content h2 span {
+#index h2 span {
     color: #ff7b00;
 }
 
-.content h4 {
+#index h4 {
     font-size: 2em;
 }
 
