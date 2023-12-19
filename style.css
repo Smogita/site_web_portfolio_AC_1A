@@ -83,7 +83,7 @@ header {
 
 #linkedin{
     position: absolute;
-    left: 50%;
+    left: 30%;
 }
 
 #linkedin img {
@@ -96,6 +96,25 @@ header {
 }
 
 #linkedin a{
+    width: 200px;
+    display: block;
+}
+
+#cv{
+    position: absolute;
+    left: 60%;
+}
+
+#cv img {
+    width : 200px;
+    transition: transform .1s;
+}
+
+#cv img:hover{
+    transform:scale(1.25);
+}
+
+#cv a{
     width: 200px;
     display: block;
 }
